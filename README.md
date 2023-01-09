@@ -20,3 +20,7 @@ This project is made with HTML, CSS and Vanilla Javascript.
 
 
 Hope you like it! Share with your fellow GOT fans.
+
+## Limitations:
+
+The Fun Translations API returns only 5 requests per hour.
